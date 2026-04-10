@@ -1,0 +1,1 @@
+# Hospital-management-system-with-image-capturing.
